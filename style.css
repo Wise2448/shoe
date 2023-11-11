@@ -111,7 +111,28 @@
         }
         
     }@media(max-width:400px){
+
         .nav-right{
-            left:10px;
+            left:20px;
+            font-size:small;
+            text-shadow: 2px 2px 2px black;
+        }  
+        section img{
+            width:100px;
+            height: 100px;
+        }
+       
+        section{
+            width:150px;
+            height:340px;
+        }
+        main{
+            display:grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        .but div{
+            overflow-x:hidden;
+            border-radius: 5px;
+            padding:5px;
         }
     }
