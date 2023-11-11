@@ -117,6 +117,9 @@
             font-size:small;
             text-shadow: 2px 2px 2px black;
         }  
+        .nav-right ul li{
+            padding-right:3px;
+        }
         section img{
             width:100px;
             height: 100px;
