@@ -120,6 +120,9 @@
        .nav-right ul{
         justify-content: space-around;
        }
+       .nav-right ul li{
+        padding-top: 2px;
+       }
         section img{
             width:100px;
             height: 100px;
