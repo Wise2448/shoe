@@ -118,7 +118,7 @@
             text-shadow: 2px 2px 2px black;
         }  
         .nav-right ul li{
-            padding-right:3px;
+            padding-left:3px;
         }
         section img{
             width:100px;
